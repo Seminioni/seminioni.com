@@ -1,0 +1,7 @@
+{
+  :id "123"
+  :created #inst "2022-03-20"
+  :author "bob"
+  :body "Кек пек бук"
+  :pictures ["meme.jpg"]
+}
